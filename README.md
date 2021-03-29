@@ -1,3 +1,6 @@
+# Ejercicio 1
+
+
 ![.gitignore](https://desarrolloweb.com/archivoimg/general/4011.jpg)
 
 
@@ -62,3 +65,18 @@ Este es un ejemplo de cómo puede lucir el archivo .gitignore :
   .sass-cache
   
   ~~~
+
+
+# Ejercicio 2
+
+### ¿A que se debe?
+
+Es el mismo resultado por que el puntero declarado en el punto b) apunta a la direccion de memoria de la variable a.
+
+
+ ### ¿Que obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por que?
+
+Mas allá de que el puntero apunte a la direccion de memoria de una variable, este tambien tiene una direccion de memoria, y eso es lo que se obtiene en este punto (la direccion de memoria del puntero).
+
+
+
